@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["FuncType","Struct of WasmEdge FuncType."],["Function","Struct of WasmEdge Function."]]});

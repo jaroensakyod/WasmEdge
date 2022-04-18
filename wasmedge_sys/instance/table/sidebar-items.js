@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Table","Struct of WasmEdge Table."],["TableType","Struct of WasmEdge TableType"]]});

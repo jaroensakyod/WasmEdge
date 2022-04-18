@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["MemType","Struct of WasmEdge MemType."],["Memory","Struct of WasmEdge Memory."]]});

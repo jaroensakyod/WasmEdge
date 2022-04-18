@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Global","Struct of WasmEdge Global."],["GlobalType","Struct of WasmEdge GlobalType."]]});
